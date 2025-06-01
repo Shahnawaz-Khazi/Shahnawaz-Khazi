@@ -50,7 +50,7 @@ A weather forecasting app using React.js and the OpenWeather API to provide live
 👨‍💻 **GitHub:** [Shahnawaz Khazi](https://github.com/Shahnawaz-Khazi)  
 🌐 **Website:** [https://shahnawazkhazi.com](https://shahnawazkhazi.com)  
 📝 **Blog:** [https://shahnawazkhazi.com/blog](https://shahnawazkhazi.com/blog)  
-💼 **Portfolio:** [https://shahnawazkhazi.com/works](https://shahnawazkhazi.com/works)
+💼 **Portfolio:** [https://shahnawazkhazi.com/my-works](https://shahnawazkhazi.com/my-works)
 
 ---
 
