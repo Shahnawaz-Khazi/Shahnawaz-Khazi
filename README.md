@@ -22,9 +22,9 @@
 
 ## Projects 💻
 
-### E-Commerce Platform
-*Link to repo or live demo*  
-A fully-featured e-commerce platform built using React.js, Node.js, and MySQL. Integrated with Stripe for payments and optimized for SEO. Includes real-time order tracking and inventory management.
+### Todo-App-using-React-TypeScript-TailwindCSS
+*[Link to repo or ](https://github.com/Shahnawaz-Khazi/Todo-App-using-React-TypeScript-TailwindCSS)*  
+A modern TODO app built with React, TypeScript, and Tailwind CSS for a clean and efficient task management experience.
 
 ---
 
