@@ -26,22 +26,6 @@
 *Link to repo or live demo*  
 A fully-featured e-commerce platform built using React.js, Node.js, and MySQL. Integrated with Stripe for payments and optimized for SEO. Includes real-time order tracking and inventory management.
 
-### Portfolio Website
-*Link to repo or live demo*  
-A personal portfolio website to showcase my development work, built with React.js, TailwindCSS, and hosted on Netlify. Features include smooth animations and a contact form integrated with email notifications.
-
-### Blog Engine
-*Link to repo or live demo*  
-A custom blog engine built with Node.js, Express, and MongoDB. Features include user authentication, blog management, comment sections, and a WYSIWYG editor for posts.
-
-### Task Management App
-*Link to repo or live demo*  
-A productivity app that helps teams manage tasks and track project progress. Built using React.js, Node.js, and Firebase for real-time updates.
-
-### Weather App
-*Link to repo or live demo*  
-A weather forecasting app using React.js and the OpenWeather API to provide live weather updates, built with responsive design principles in mind.
-
 ---
 
 ## Contact & Social Links 📱
