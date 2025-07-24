@@ -27,7 +27,7 @@
 A modern TODO app built with React, TypeScript, and Tailwind CSS for a clean and efficient task management experience.
 
 ### Multi-Lingual Portfolio Website
-<a href="https://kavyapriya.com" target="_blank" rel="noopener noreferrer">Live URL</a>
+*<a href="https://kavyapriya.com" target="_blank" rel="noopener noreferrer">Live URL</a>*
 A modern Portfolio website built with React, TailwindCSS, Vercel, that showcases my client's works in both Enlish and Kannada Languages.
 Please use the language swtiching tab available in the header to switch between languages.
 
