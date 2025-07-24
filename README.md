@@ -38,7 +38,7 @@ Please use the language swtiching tab available in the header to switch between 
 🔗 **LinkedIn:** [Mohammad-Shah-Nawaz-Khazi](https://linkedin.com/in/mohammad-shah-nawaz-khazi)  
 👨‍💻 **GitHub:** [Shahnawaz Khazi](https://github.com/Shahnawaz-Khazi)  
 🌐 **Website:** [https://shahnawazkhazi.com](https://shahnawazkhazi.com)  
-💼 **Portfolio:** [https://shahnawazkhazi.com/my-works](https://shahnawazkhazi.com/portfolio)
+💼 **Portfolio:** [https://shahnawazkhazi.com/portfolio](https://shahnawazkhazi.com/portfolio)
 
 ---
 
