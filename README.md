@@ -26,6 +26,11 @@
 *[Link to repo](https://github.com/Shahnawaz-Khazi/Todo-App-using-React-TypeScript-TailwindCSS)*  
 A modern TODO app built with React, TypeScript, and Tailwind CSS for a clean and efficient task management experience.
 
+### Multi-Lingual Portfolio Website
+*[Link to repo](https://kavyapriya.com)*  
+A modern Portfolio website built with React, TailwindCSS, Vercel, that showcases my client's works in both Enlish and Kannada Languages.
+Please use the language swtiching tab available in the header to switch between languages.
+
 ---
 
 ## Contact & Social Links 📱
