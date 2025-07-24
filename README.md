@@ -1,4 +1,4 @@
-# Shahnawaz Khazi - Full Stack Developer
+# Shahnawaz Khazi - Full Stack Software Engineer
 
 ## About Me
 
@@ -10,8 +10,8 @@
 
 ## Technologies & Tools 🛠️
 
-- **Frontend:** HTML5, CSS3, TailwindCSS, JavaScript, React.js, VueJS
-- **Backend:** Node.js, Express.js, PHP, Python, Django, Flask
+- **Frontend:** HTML5, CSS3, TailwindCSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js, PHP, Python.
 - **Content Management Systems:** WordPress, Craft CMS
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
@@ -33,8 +33,7 @@ A modern TODO app built with React, TypeScript, and Tailwind CSS for a clean and
 🔗 **LinkedIn:** [Mohammad-Shah-Nawaz-Khazi](https://linkedin.com/in/mohammad-shah-nawaz-khazi)  
 👨‍💻 **GitHub:** [Shahnawaz Khazi](https://github.com/Shahnawaz-Khazi)  
 🌐 **Website:** [https://shahnawazkhazi.com](https://shahnawazkhazi.com)  
-📝 **Blog:** [https://shahnawazkhazi.com/blog](https://shahnawazkhazi.com/blog)  
-💼 **Portfolio:** [https://shahnawazkhazi.com/my-works](https://shahnawazkhazi.com/my-works)
+💼 **Portfolio:** [https://shahnawazkhazi.com/my-works](https://shahnawazkhazi.com/portfolio)
 
 ---
 
